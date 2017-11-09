@@ -1,0 +1,21 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Monokai-Cobalt",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.lineHeight": 30,
+  "editor.smoothScrolling": true,
+  "editor.minimap.showSlider": "always",
+  "editor.find.seedSearchStringFromSelection": false,
+  "editor.cursorBlinking": "phase",
+  "editor.showFoldingControls": "always",
+  "editor.tokenColorCustomizations": {
+    "comments": "#c9c9c9"
+  },
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "extensions.ignoreRecommendations": true,
+  "workbench.sideBar.location": "left"
+}
