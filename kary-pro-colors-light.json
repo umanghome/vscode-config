@@ -1,0 +1,44 @@
+{
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "Kary Pro Colors － Light",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "600",
+  "editor.tabSize": 2,
+  "editor.lineHeight": 22,
+  "editor.smoothScrolling": true,
+  "editor.minimap.showSlider": "always",
+  "editor.find.seedSearchStringFromSelection": false,
+  "editor.cursorWidth": 4,
+  "editor.cursorBlinking": "phase",
+  "editor.showFoldingControls": "always",
+  "editor.tokenColorCustomizations": {
+    "comments": "#000000"
+  },
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#000000",
+    "diffEditor.insertedTextBackground": "#a5b5e432",
+    "diffEditor.removedTextBackground": "#f38a8a36",
+    "editor.lineHighlightBackground": "#ffffff",
+    "scrollbar.shadow": "#ff0000",
+    "scrollbarSlider.background": "#d3d3d3",
+    "editorLineNumber.foreground": "#87bd97",
+    "editorLineNumber.activeForeground": "#000000",
+    "editor.selectionBackground": "#abddfa"
+  },
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "extensions.ignoreRecommendations": true,
+  "workbench.sideBar.location": "left",
+  "workbench.panel.location": "right",
+  "prettier.singleQuote": true,
+  "terminal.integrated.rendererType": "dom",
+  "files.associations": {
+    "*.html": "html",
+    "*.svelte": "svelte",
+    "*.jst": "html"
+  },
+  "breadcrumbs.enabled": true,
+  "workbench.startupEditor": "newUntitledFile"
+}
